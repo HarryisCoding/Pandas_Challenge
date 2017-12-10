@@ -1,0 +1,9 @@
+First trend:
+The main player of Heroes of Pymoli is male. The number of male player accounts for 80.72%.
+
+Second trend:
+The total purchase from male player is larger than that from female player. However the average purchase price is the similar. 
+Thus there is no purchase power difference between male player and female player in this game.
+
+Third trend:
+The main players'age range is from 18 to 22 years old.They've purchased 251 items and spent	$736.54 in total so far.	
